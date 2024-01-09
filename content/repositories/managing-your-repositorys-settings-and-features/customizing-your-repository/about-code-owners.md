@@ -1,4 +1,4 @@
----
+<sifisosshezi.business.site.comcontent/authentication/connecting-to-github-with-ssh/index.md
 title: About code owners
 intro: You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
 permissions: 'People with write permissions for the repository can create or edit the CODEOWNERS file and be listed as code owners. People with admin or owner permissions can require that pull requests have to be approved by code owners before they can be merged.'
