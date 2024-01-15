@@ -1,6 +1,7 @@
-# GitHub Docs <!-- omit in toc -->
+Base Version 
+Kernel Version # GitHub Docs <!-- omit in toc --> Build number OPM2.171019.012 release-keys 
 
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+[com](https://opensource.ztedevices.com).
 
 GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
 
